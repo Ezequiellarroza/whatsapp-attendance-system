@@ -1,0 +1,25 @@
+# Node modules
+backend/node_modules/
+frontend/node_modules/
+
+# Env files
+backend/.env
+frontend/.env
+*.env
+
+# WhatsApp sessions (¡muy importante!)
+backend/.wwebjs_auth/
+backend/.wwebjs_cache/
+
+# Build outputs
+frontend/dist/
+frontend/build/
+
+# Logs
+*.log
+logs/
+
+# Sistema y editor
+.DS_Store
+Thumbs.db
+.vscode/
