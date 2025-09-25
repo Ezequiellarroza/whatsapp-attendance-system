@@ -1,5 +1,4 @@
-import WhatsAppManager from './componentes/WhatsAppManager';
-
+import AppShell from './AppShell';
 export default function App() {
-  return <WhatsAppManager />;
+  return <AppShell />;
 }
