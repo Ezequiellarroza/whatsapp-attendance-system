@@ -23,3 +23,8 @@ logs/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Env (todas las variantes)
+.env*
+frontend/.env*
+backend/.env*
